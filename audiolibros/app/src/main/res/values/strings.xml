@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Audiolibros</string>
+    <string name="action_settings">Settings</string>
+    <string name="suspense">Suspense</string>
+    <string name="literatura_siglo_xix">Literatura siglo XIX</string>
+    <string name="poema_pico">Poema épico</string>
+    <string name="todos_los_generos">Todos los géneros</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="acciones_adicionales">Acciones adicionales</string>
+    <string name="compartir">Compartir</string>
+    <string name="drawer_open">navigation drawer abierto</string>
+    <string name="drawer_close">navigation drawer cerrado</string>
+    <string name="audiolibros">Audiolibros</string>
+    <string name="http_www_androidcurso_com">#ITSURGEEK</string>
+</resources>
